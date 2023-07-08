@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Hello! I'm currently a dedicated Master's candidate pursuing my degree in Electrical Engineering at the University of Pennsylvania. My primary focus lies in digital integrated circuits, Very-Large-Scale Integration (VLSI), and embedded systems (also including PCB), an area where I've accumulated considerable experience and expertise.
+
+- 🌱I’m currently studying at UPenn. @ESE.
+
+- 👯I am actively seeking internship opportunities in the realm of digital circuits and embedded systems in Summer 2023 and Fall 2023, where I can continue to grow, learn, and contribute my skills. I am excited about the prospects of bringing my practical knowledge and theoretical understanding to the table, and I look forward to engaging with innovative and challenging projects in this field.
