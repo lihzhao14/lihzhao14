@@ -31,6 +31,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihzhao14&repo=ESE5160_Highway)](https://github.com/lihzhao14/ESE5160_Highway)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihzhao14&repo=cis571_lc4)](https://github.com/lihzhao14/cis571_lc4)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihzhao14&repo=CIT5900_hw_code)](https://github.com/lihzhao14/CIT5900_hw_code/tree/main/hw11)
